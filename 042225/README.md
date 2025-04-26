@@ -10,6 +10,7 @@ GitOps is a DevOps methodology that uses Git repositories as the single source o
 ## Tutorials 
 
 [Computer Basics](https://www.facebook.com/share/p/1CDPcqUFgN/)
+
 [KillerCoda Git tutorial](https://killercoda.com/pawelpiwosz/course/gitFundamentals)
 
 ## CLI File Management
