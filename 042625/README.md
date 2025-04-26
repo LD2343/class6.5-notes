@@ -1,6 +1,6 @@
 # Project Title
 
-A simple project README that shows how to create this file and includes a section for Songkran pictures.
+A simple project README for my deliverable. 
 
 ## Table of Contents
 
@@ -51,7 +51,9 @@ git push
 
 <p float="left">
   <img src="./songkran-1.jpg" alt="3 in the street" width="45%" />
-  <img src="./songkran-2.jpg" alt="attack!" width="45%" />
+  <img src="./songkran-3.jpg" alt="attack!" width="45%" />
 </p>
+
+![Songkran](./songkran-2.jpg)
 
 ---
