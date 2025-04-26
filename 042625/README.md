@@ -43,12 +43,11 @@ git push
 
 
 
-![Songkran Music Festival](https://www.optionstheedge.com/sites/default/files/field/featured-image/2025/songkran_cover.jpg)
-
-
-![Songkran Fun](https://siamsongkran.info/wp-content/uploads/13SSK-96-1-1920x1278.jpg)
-
-![Dark Thai](https://edmnomad.com/wp-content/uploads/2025/03/best-bangkok-songkran-2025-parties-edmnomad.jpg)
+<p float="left">
+  <img src="https://www.optionstheedge.com/sites/default/files/field/featured-image/2025/songkran_cover.jpg" width="30%" />
+  <img src="https://siamsongkran.info/wp-content/uploads/13SSK-96-1-1920x1278.jpg" width="30%" />
+  <img src="https://edmnomad.com/wp-content/uploads/2025/03/best-bangkok-songkran-2025-parties-edmnomad.jpg" width="30%" />
+</p>
 
 ![3 in the street](./songkran-1.jpg)
 
