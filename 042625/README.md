@@ -26,7 +26,7 @@ code README.md
 # After editing, save and exit the editor
 
 # Stage the README for commit
-git add README.md
+git add 042625
 
 # Commit the README to the repo
 git commit -m "Add initial README with commands and Songkran pics section"
