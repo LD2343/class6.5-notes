@@ -49,7 +49,9 @@ git push
   <img src="https://edmnomad.com/wp-content/uploads/2025/03/best-bangkok-songkran-2025-parties-edmnomad.jpg" width="30%" />
 </p>
 
-![3 in the street](./songkran-1.jpg)
+<p float="left">
+  <img src="./songkran-1.jpg" alt="3 in the street" width="45%" />
+  <img src="./songkran-2.jpg" alt="attack!" width="45%" />
+</p>
 
-![attack!](./songkran-2.jpg)
 ---
