@@ -18,6 +18,8 @@
 | james b       | [Link](https://github.com/sithvalentine/ladyargentine/tree/main) |
 | andre blair   | [Link](https://github.com/DWEETNICE/gitpractice.git) |
 | jerome hunter | [Link](https://github.com/BIGDADDY5802/cloudwarriorgitops.git) |
+| adam scaife   | [Link](https://github.com/ascaife2/GCPsample01.git) |
+| uriah russell | [Link](https://github.com/Uriah-R/Beautiful-2) |
 
 ## Don't count these nerds
 
