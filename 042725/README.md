@@ -8,7 +8,7 @@
 
 ---
 
-Did you submit a repo?
+## Did you submit a repo?
 
 [Check here](./completed-repos.md)
 
