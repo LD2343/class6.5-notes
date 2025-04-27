@@ -6,6 +6,9 @@ Git is a distributed version control system that tracks changes to code, allowin
 
 GitOps is a DevOps methodology that uses Git repositories as the single source of truth for declarative infrastructure and application configurations (for example, Terraform for infrastructure and Kubernetes manifests for applications). Every change is made by committing to Git, which triggers automated pipelines (CI/CD) to apply these changes. This approach ensures versioned, auditable, and reproducible deployments.
 
+## Don't do this
+
+![git-commit-arson](https://i.imgflip.com/9s3t8n.jpg)
 
 ## Tutorials 
 
