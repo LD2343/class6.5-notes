@@ -30,8 +30,8 @@ A directory is another term for folder.
 - `touch <file name>`: Makes a file
 - `cat <file name>`: display file contents
 - `code .`: open present directory in VS code
-- `
-- Get to the correct location on your computer 
+- Get to the correct location on your computer:
+
 ```cd ~/Documents/TheoWAF/class6.5/GCP```
 
 Tip: Press **Tab** to autocomplete file and directory names.
