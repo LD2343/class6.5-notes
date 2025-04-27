@@ -2,8 +2,15 @@
 
 ## Table of Contents
 
+- [Who did this lab?](#who-did-this-lab?)
 - [Ladies of Kazakhstan](#ladies-of-kazakhstan)
 - [Ladies of Nepal](#ladies-of-nepal)
+
+---
+
+Did you submit a repo?
+
+[Check here](./completed-repos.md)
 
 ---
 
