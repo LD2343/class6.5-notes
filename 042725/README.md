@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Who did this lab?](#Did-you-submit-a-repo?)
+- [Did you submit a repo?](#did-you-submit-a-repo)
 - [Ladies of Kazakhstan](#ladies-of-kazakhstan)
 - [Ladies of Nepal](#ladies-of-nepal)
 

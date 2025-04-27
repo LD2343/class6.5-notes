@@ -15,7 +15,7 @@
 | evan hooks    | [Link](https://github.com/Evan29ny/sunday4-27) |
 | horace        | [Link](https://github.com/HPb2b/class4-27-25.git) |
 | willardth     | [Link](https://github.com/65ra8e/practicerepo4-27.git) |
-| james b       | [Link](https://github.com/sithvalentine/ladyargentine/blob/main/alina-akselrad-miss-argentina.jpeg) |
+| james b       | [Link](https://github.com/sithvalentine/ladyargentine/tree/main) |
 | andre blair   | [Link](https://github.com/DWEETNICE/gitpractice.git) |
 | jerome hunter | [Link](https://github.com/BIGDADDY5802/cloudwarriorgitops.git) |
 
