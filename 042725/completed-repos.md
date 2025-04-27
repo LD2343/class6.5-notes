@@ -20,7 +20,7 @@
 | jerome hunter | [Link](https://github.com/BIGDADDY5802/cloudwarriorgitops.git) |
 | adam scaife   | [Link](https://github.com/ascaife2/GCPsample01.git) |
 | uriah russell | [Link](https://github.com/Uriah-R/Beautiful-2) |
-| Larvarious    | [Link](https://github.com/LarvariousM/repoforaaronandtheo.git)
+| Larvarious    | [Link](https://github.com/LarvariousM/repoforaaronandtheo.git) |
 
 ## Don't count these nerds
 
