@@ -30,8 +30,8 @@ git push
 ```
 
 ## Step 5: Make an authentication file
-Make authentication file
-[https://github.com/DarthBane2025/basicgcp2025/blob/main/0-authentication.tf]()
+
+[https://github.com/DarthBane2025/basicgcp2025/blob/main/0-authentication.tf](Example authentication file)
 
 [https://registry.terraform.io/providers/hashicorp/google/latest]()
 
@@ -42,7 +42,7 @@ Make a file named: 0-authentication.tf
  - Run `touch 0-authentication.tf`
 
 ## Step 6: Make remote backend 
-[https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf]()
+[https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf](Example backend file)
 
 https://developer.hashicorp.com/terraform/language/backend/gcs
 
@@ -53,6 +53,7 @@ Make a file named: 1-backend.tf
  - Run `touch 1-backend.tf`
 
 ## Step 7: Make a VPC 
+[Example VPC FIle](https://github.com/DarthBane2025/basicgcp2025/blob/main/2-vpc.tf)
 Make a file named: 2-vpc.tf
  - Use VS Code or
  - Run `touch 2-vpc.tf` in the terminal
