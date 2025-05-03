@@ -11,17 +11,17 @@
 5) Open VS Code with
 ```code .```
 
-```
+
 
 ## Step 2: Make a Google Cloud Storage bucket
 Make a bucket
 
-```
+
 
 ## Step 3: Make a terraform Service Account
 Make an SA (editor, artifact registry admin, storage admin)
 
-```
+
 
 ## Step 4: Get the .gitignore
 1) Run the following command to download the basic Terraform and secrets `.gitignore`:
@@ -51,7 +51,7 @@ Make a file named: 0-authentication.tf
  - Run `touch 0-authentication.tf`
 
  
-```
+
 
 ## Step 6: Make remote backend 
 [Example backend file](https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf)
@@ -70,14 +70,14 @@ Make a file named: 1-backend.tf
 [Terraform Registry](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_network)
 
 
-```
+
 
 Make a file named: 2-vpc.tf
  - Use VS Code or
  - Run `touch 2-vpc.tf` in the terminal
 
  
-'''
+
 
 ## Step 8: Basic terraform workflow
 1) To ensure terraform is installed run `terraform version`
@@ -104,4 +104,3 @@ Make a file named: 2-vpc.tf
  - Provisions or updates real infrastructure
  - Prompts for approval unless run with the `-auto-approve` flag
 
-```
