@@ -3,13 +3,13 @@
 ## Step 1: File Managment 
 1) Make a new repo in GitHub
 2) Navigate in CLI to terraform directory  
-\`\`\`cd ~/Documents/TheoWAF/class6.5/GCP/Terraform/\`\`\`
+```cd ~/Documents/TheoWAF/class6.5/GCP/Terraform/```
 3) Clone Repo to local machine  
-\`\`\`git clone <remote repo URL>\`\`\`
+```git clone <remote repo URL>```
 4) Move into the directory that gets made  
-\`\`\`cd <name of repo>\`\`\`
+```cd <name of repo>```
 5) Open VS Code with  
-\`\`\`code .\`\`\`
+```code .```
 
 ## Step 2: Make a Google Cloud Storage bucket  
 Make a bucket
@@ -18,18 +18,18 @@ Make a bucket
 Make an SA (editor, artifact registry admin, storage admin)
 
 ## Step 4: Get the .gitignore  
-1) Run the following command to download the basic Terraform and secrets \`.gitignore\`:  
+1) Run the following command to download the basic Terraform and secrets `.gitignore`:  
 
-\`\`\`curl https://raw.githubusercontent.com/aaron-dm-mcdonald/class6.5-notes/refs/heads/main/050325/.gitignore -O\`\`\`
+```curl https://raw.githubusercontent.com/aaron-dm-mcdonald/class6.5-notes/refs/heads/main/050325/.gitignore -O```
 
 2) Verify the \`.gitignore\` creation in VS Code  
 3) Check this in to your github repo now (recommended):  
 
-\`\`\`bash  
+```bash  
 git add .gitignore  
 git commit -m "add .gitignore"  
 git push  
-\`\`\`
+```
 
 ## Step 5: Make an authentication file  
 
@@ -41,7 +41,7 @@ git push
 
 Make a file named: 0-authentication.tf  
  - Use VS Code or  
- - Run \`touch 0-authentication.tf\`  
+ - Run `touch 0-authentication.tf`  
 
 ## Step 6: Make remote backend  
 
@@ -53,7 +53,7 @@ Make a file named: 0-authentication.tf
 
 Make a file named: 1-backend.tf  
  - Use VS Code or  
- - Run \`touch 1-backend.tf\`  
+ - Run `touch 1-backend.tf`  
 
 ## Step 7: Make a VPC  
 
@@ -63,16 +63,16 @@ Make a file named: 1-backend.tf
 
 Make a file named: 2-vpc.tf  
  - Use VS Code or  
- - Run \`touch 2-vpc.tf\` in the terminal  
+ - Run `touch 2-vpc.tf` in the terminal  
 
 ## Step 8: Basic terraform workflow  
 1) To ensure terraform is installed run  
 
-\`terraform version\`  
+`terraform version`  
 
 2) Initalize the directory:  
 
-\`\`\`terraform init\`\`\`  
+```terraform init```  
 
 Initializes the current directory for Terraform use:  
  - Downloads required providers  
@@ -81,18 +81,18 @@ Initializes the current directory for Terraform use:
 
 3) Core Workflow  
 
-\`\`\`terraform validate\`\`\`     
+```terraform validate```     
  - Checks whether the Terraform configuration is syntactically valid  
  - Does not access remote providers or backends  
  - Good for catching typos or config issues early  
 
-\`\`\`terraform plan\`\`\`         
+```terraform plan```         
  - Creates an execution plan:  
  - Compares your config to the current state  
  - Shows what Terraform *would* change (add/update/destroy)  
  - No actual changes are made yet  
 
-\`\`\`terraform apply\`\`\`        
+```terraform apply```        
  - Applies the changes proposed in the plan:  
  - Provisions or updates real infrastructure  
  - Prompts for approval unless run with the \`-auto-approve\` flag
