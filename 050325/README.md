@@ -33,20 +33,20 @@ git push
 
 [Example authentication file](https://github.com/DarthBane2025/basicgcp2025/blob/main/0-authentication.tf)
 
-[https://registry.terraform.io/providers/hashicorp/google/latest]()
+[Google Provider documentation](https://registry.terraform.io/providers/hashicorp/google/latest)
 
-[https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/provider_reference]()
+[Google Provider Reference](https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/provider_reference)
 
 Make a file named: 0-authentication.tf
  - Use VS Code or
  - Run `touch 0-authentication.tf`
 
 ## Step 6: Make remote backend 
-[https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf](Example backend file)
+[Example backend file](https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf])
 
-https://developer.hashicorp.com/terraform/language/backend/gcs
+[Hashicorp Developer Documentation on GCS](https://developer.hashicorp.com/terraform/language/backend/gcs)
 
-https://registry.terraform.io/providers/hashicorp/google/latest
+[Terraform Registry](https://registry.terraform.io/providers/hashicorp/google/latest)
 
 Make a file named: 1-backend.tf
  - Use VS Code or
@@ -54,6 +54,10 @@ Make a file named: 1-backend.tf
 
 ## Step 7: Make a VPC 
 [Example VPC FIle](https://github.com/DarthBane2025/basicgcp2025/blob/main/2-vpc.tf)
+
+[Terraform Registry](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_network)
+
+
 Make a file named: 2-vpc.tf
  - Use VS Code or
  - Run `touch 2-vpc.tf` in the terminal
