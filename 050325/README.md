@@ -58,8 +58,6 @@ Make a file named: 2-vpc.tf
 To ensure terraform is installed run `terraform version`
 
 ```bash
-terraform version      # Displays the installed version of Terraform (helps verify the CLI is installed correctly)
-
 terraform init         # Initializes the current directory for Terraform use:
                        # - Downloads required providers
                        # - Sets up the backend (e.g., remote state storage)
