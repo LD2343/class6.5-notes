@@ -77,7 +77,7 @@ Make a file named: 2-vpc.tf
  - Run `touch 2-vpc.tf` in the terminal
 
  
-```
+'''
 
 ## Step 8: Basic terraform workflow
 1) To ensure terraform is installed run `terraform version`
