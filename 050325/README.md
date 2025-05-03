@@ -31,7 +31,7 @@ git push
 
 ## Step 5: Make an authentication file
 
-[https://github.com/DarthBane2025/basicgcp2025/blob/main/0-authentication.tf](Example authentication file)
+[Example authentication file](https://github.com/DarthBane2025/basicgcp2025/blob/main/0-authentication.tf)
 
 [https://registry.terraform.io/providers/hashicorp/google/latest]()
 
