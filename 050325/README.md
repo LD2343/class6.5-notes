@@ -27,6 +27,7 @@ Make an SA (editor, artifact registry admin, storage admin)
 1) Run the following command to download the basic Terraform and secrets `.gitignore`:
 
 ```curl https://raw.githubusercontent.com/aaron-dm-mcdonald/class6.5-notes/refs/heads/main/050325/.gitignore -O```
+
 2) Verify the `.gitignore` creation in VS Code
 3) Check this in to your github repo now (reccomended):
 
@@ -82,24 +83,29 @@ Make a file named: 2-vpc.tf
 ## Step 8: Basic terraform workflow
 1) To ensure terraform is installed run `terraform version`
 
-2) ```terraform init```  
+2) Initalize the directory: 
+
+```terraform init```  
+
  Initializes the current directory for Terraform use:
  - Downloads required providers
  - Sets up the backend (e.g., remote state storage)
  - Prepares the .terraform directory
 
-3) ```terraform validate```     
+3) Core Workflow
+
+```terraform validate```     
  - Checks whether the Terraform configuration is syntactically valid
  - Does not access remote providers or backends
  - Good for catching typos or config issues early
 
-4) ```terraform plan```         
+ ```terraform plan```         
  - Creates an execution plan:
  - Compares your config to the current state
  - Shows what Terraform *would* change (add/update/destroy)
  - No actual changes are made yet
 
-5) ```terraform apply```        
+ ```terraform apply```        
  - Applies the changes proposed in the plan:
  - Provisions or updates real infrastructure
  - Prompts for approval unless run with the `-auto-approve` flag
