@@ -81,7 +81,9 @@ Make a file named: 2-vpc.tf
 
 
 ## Step 8: Basic terraform workflow
-1) To ensure terraform is installed run `terraform version`
+1) To ensure terraform is installed run 
+
+`terraform version`
 
 2) Initalize the directory: 
 
