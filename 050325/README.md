@@ -12,12 +12,16 @@
 ```code .```
 
 ## Step 2: Make a Google Cloud Storage bucket  
-Make a bucket
+1) Make a bucket or use a previous bucket
+2) Note bucket name
 
 ## Step 3: Make a terraform Service Account  
-Make an SA (editor, artifact registry admin, storage admin)
+1) Make an SA (editor, artifact registry admin, storage admin) or use a previous SA
+2) Move key to ```~/Documents/TheoWAF/class6.5/GCP/Terraform/<name of repo>```
 
-## Step 4: Get the .gitignore  
+
+
+## Step 4: Get the gitignore  
 1) Run the following command to download the basic Terraform and secrets `.gitignore`:  
 
 ```curl https://raw.githubusercontent.com/aaron-dm-mcdonald/class6.5-notes/refs/heads/main/050325/.gitignore -O```
