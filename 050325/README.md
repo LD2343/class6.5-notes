@@ -42,7 +42,7 @@ Make a file named: 0-authentication.tf
  - Run `touch 0-authentication.tf`
 
 ## Step 6: Make remote backend 
-[Example backend file](https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf])
+[Example backend file](https://github.com/DarthBane2025/basicgcp2025/blob/main/1-backend.tf)
 
 [Hashicorp Developer Documentation on GCS](https://developer.hashicorp.com/terraform/language/backend/gcs)
 
