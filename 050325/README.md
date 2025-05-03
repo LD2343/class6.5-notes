@@ -19,6 +19,7 @@ Make an SA (editor, artifact registry admin, storage admin)
 
 ## Step 4: Get the .gitignore
 1) Run the following command to download the basic Terraform and secrets `.gitignore`:
+
 ```curl https://raw.githubusercontent.com/aaron-dm-mcdonald/class6.5-notes/refs/heads/main/050325/.gitignore -O```
 2) Verify the `.gitignore` creation in VS Code
 3) Check this in to your github repo now (reccomended):
