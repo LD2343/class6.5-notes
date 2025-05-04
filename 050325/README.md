@@ -16,8 +16,16 @@
 2) Note bucket name
 
 ## Step 3: Make a terraform Service Account  
-1) Make an SA (editor, artifact registry admin, storage admin) or use a previous SA
-2) Move key to ```~/Documents/TheoWAF/class6.5/GCP/Terraform/<name of repo>```
+1) Make an SA
+- editor
+- artifact registry admin
+- storage administrator
+
+or use a previous SA (if you have one)
+
+2) Get JSON Key
+  - Key by default goes to downloads
+  - Move the key to ```~/Documents/TheoWAF/class6.5/GCP/Terraform/<name of repo>```
 
 
 
