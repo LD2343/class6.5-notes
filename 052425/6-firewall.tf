@@ -5,7 +5,6 @@
 resource "google_compute_firewall" "ssh" {
   name    = "${google_compute_network.main.name}-allow-lizzo-ssh"
   network = google_compute_network.main.name
-  #direction = "INGRESS" (not needed as it is a default value- see API documentation)
 
   allow {
     protocol = "tcp"

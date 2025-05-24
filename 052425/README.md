@@ -16,12 +16,12 @@
 
 ## Documentation
 1) VM Docs
-  - (Terraform Registry for VM Resource)[https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance]
-  - (REST API Documentation)[https://cloud.google.com/compute/docs/reference/latest/instances]
+  - [Terraform Registry for VM Resource](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_instance)
+  - [REST API Documentation](https://cloud.google.com/compute/docs/reference/latest/instances)
 
 2) Template Docs
-  - (Terraform Registry for Regional Instance Template)[https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_region_instance_template]
-  - (REST API Documentation)[https://cloud.google.com/compute/docs/reference/rest/v1/regionInstanceTemplates]
+  - [Terraform Registry for Regional Instance Template](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_region_instance_template)
+  - [REST API Documentation](https://cloud.google.com/compute/docs/reference/rest/v1/regionInstanceTemplates)
 
 ## Plan
 1) Review Architecture

@@ -2,7 +2,7 @@
 terraform {
   backend "gcs" {
     bucket      = "aaronmcd-state-files"
-    prefix      = "terraform/052025-mig-alb-private"
+    prefix      = "terraform/052425"
     credentials = "key.json"
   }
 
@@ -10,11 +10,6 @@ terraform {
     google = {
       source  = "hashicorp/google"
       version = "~> 6.0"
-    }
-
-    tls = {
-      source  = "hashicorp/tls"
-      version = "~> 4.0"
     }
   }
 }
