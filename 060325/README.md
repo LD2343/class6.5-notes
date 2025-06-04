@@ -5,9 +5,9 @@
 ## documentation links
 
 ## architecture diagrams
-![](./060325/assets/console-to-tf-map.PNG)
-![](./060325/assets/GCP+Global+LB+components.png)
-![](./060325/assets/global-lb-v2.svg)
+![](./assets/console-to-tf-map.PNG)
+![](./assets/GCP+Global+LB+components.png)
+![](./assets/global-lb-v2.svg)
 
 ## Global LB test script
 - [Old test script README](../041925/README.md)
